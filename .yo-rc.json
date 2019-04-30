@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8756,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "OTQ1OGFlMGU3MWYwYWUwMGVlODQ0MWQxNmM2NTBhNmIyOWJlYTNlZDI5OWQ3NzlhY2MwNzI5YjFkMjM1NDlhYTdjOTE4YTExYWM3MDY0YTgzOTlkNWRiOWNkOTY1YTU0YjlhYjkzZTkzMzVhM2U5ZTViYjQxMGU2Y2Q2MDBlYjA=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "luksha",
+  "repository-name": "jhipster-sample-application"
+}
